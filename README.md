@@ -1,12 +1,12 @@
-# 🚀 JobFix
+# JobFix
 
 **JobFix** is a smart job aggregation platform designed to simplify the hiring process for both candidates and recruiters. It brings together job listings from multiple platforms into one place and enhances the experience using AI-powered recommendations.
 
 ---
 
-## 🌟 Features
+## Features
 
-### 🔍 All Jobs in One Place
+### All Jobs in One Place
 
 - Aggregates job listings from multiple platforms (e.g., LinkedIn, Naukri, etc.)
 - Eliminates the need to search across different websites
@@ -14,7 +14,7 @@
 
 ---
 
-### 🧑‍💼 For Recruiters
+### For Recruiters
 
 - View candidate profiles based on selected job criteria
 - Apply filters to quickly find the most suitable candidates
@@ -23,7 +23,7 @@
 
 ---
 
-### 👨‍💻 For Candidates
+### For Candidates
 
 - Access job listings from multiple platforms in one dashboard
 - No need to switch between different job portals
@@ -31,7 +31,7 @@
 
 ---
 
-### 💸 Referral Jobs (Premium Feature)
+### Referral Jobs (Premium Feature)
 
 - Working professionals can post referral-based job opportunities
 - Earn money for successful referrals
@@ -40,7 +40,7 @@
 
 ---
 
-### 🤖 AI Recruiter (Core Feature)
+### AI Recruiter (Core Feature)
 
 - AI agent collects user information during onboarding
 - Analyzes skills, preferences, and goals
@@ -49,7 +49,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** React, Tailwind
 - **Backend:** TypeScript + Express
@@ -58,7 +58,7 @@
 
 ---
 
-## 🚧 Challenges & Considerations
+## Challenges & Considerations
 
 - Fetching jobs from multiple sources (APIs, scraping, partnerships)
 - Maintaining real-time and accurate job data
@@ -67,31 +67,31 @@
 
 ---
 
-## 🎯 Vision
+## Vision
 
 To build a **one-stop solution for job seekers and recruiters**, powered by AI, making the hiring process faster, smarter, and more efficient.
 
 ---
 
-## 📌 Status
+## Status
 
 🚧 Currently in development
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, ideas, and feedback are always welcome!
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source and available under the MIT License.
 
 ---
 
-## 💡 Inspiration
+## Inspiration
 
 Built to solve the problem of fragmented job searching and inefficient hiring processes.
 
